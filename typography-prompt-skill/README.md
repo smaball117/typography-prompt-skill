@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[你复制的Raw图片链接](https://raw.githubusercontent.com/smaball117/typography-prompt-skill/refs/heads/main/typography-prompt-skill/assets/cover.png)" width="100%">
+  <img src="[https://github.com/smaball117/typography-prompt-skill/blob/main/typography-prompt-skill/assets/cover.png?raw=true]" width="100%">
 </p>
 # Typography Prompt Skill
 
