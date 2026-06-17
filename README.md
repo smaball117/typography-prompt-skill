@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="./assets/cover.png" width="100%">
+  <img src="assets/cover.png" width="100%">
 </p>
 
 # Typography Prompt Skill
-
-100+ Professional Typography Styles
-
-A typography prompt skill library for AI image generation.
 # typography-prompt-skill
 A typography prompt skill library for AI image generation, focused on ecommerce, kidswear, logo, Xiaohongshu, oriental, game, and futuristic type styles.
 # Typography Prompt Skill
