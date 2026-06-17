@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[你复制的Raw图片链接](https://raw.githubusercontent.com/smaball117/typography-prompt-skill/refs/heads/main/typography-prompt-skill/assets/cover.png)" width="100%">
+</p>
 # Typography Prompt Skill
 
 `typography-prompt-skill` 是一个供 Codex 调用的字体提示词 Skill。它根据用户输入的文字、场景和参考风格，从 `data/style-library.json` 中匹配合适的字体风格，并输出可直接用于 Image 2.0、即梦、Midjourney 的字体设计提示词。
