@@ -1,14 +1,8 @@
-typography-prompt-skill/
+# Typography Prompt Skill
 
-README.md
-SKILL.md
-LICENSE
+![cover](assets/cover.png)
 
-assets/
-└── cover.png
-
-data/
-└── style-library.json
+A typography prompt skill library for AI image generation.
 # typography-prompt-skill
 A typography prompt skill library for AI image generation, focused on ecommerce, kidswear, logo, Xiaohongshu, oriental, game, and futuristic type styles.
 # Typography Prompt Skill
