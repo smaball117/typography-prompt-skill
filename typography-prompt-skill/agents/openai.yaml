@@ -1,0 +1,3 @@
+interface:
+  display_name: "Typography Prompt Skill"
+  short_description: "Match Chinese typography styles and generate prompts for Image 2.0, Jimeng, and Midjourney"
