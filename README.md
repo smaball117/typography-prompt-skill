@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./typography-prompt-skill/assets/cover.png" width="100%">
+</p>
+<p align="center">
   <img src="./assets/cover.png" width="100%">
 </p>
 
