@@ -39,4 +39,22 @@ A typography prompt skill library for AI image generation, focused on ecommerce,
 
 ## License
 
-MIT
+Typography Prompt Skill
+
+100+ Typography Styles
+
+A. 电商活动
+B. 童装儿童
+C. 小红书
+D. 品牌LOGO
+E. 国潮东方
+F. 游戏影视
+G. 科技未来
+
+支持：
+
+Image 2
+即梦
+Flux
+Midjourney
+GPT Image
