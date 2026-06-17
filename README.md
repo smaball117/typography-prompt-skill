@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="./assets/cover.png" width="100%">
+</p>
+
 # Typography Prompt Skill
 
-![cover](assets/cover.png)
+100+ Professional Typography Styles
 
 A typography prompt skill library for AI image generation.
 # typography-prompt-skill
