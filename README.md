@@ -1,4 +1,14 @@
-![Uploading ChatGPT Image 2026年6月17日 14_26_22.png…]()
+typography-prompt-skill/
+
+README.md
+SKILL.md
+LICENSE
+
+assets/
+└── cover.png
+
+data/
+└── style-library.json
 # typography-prompt-skill
 A typography prompt skill library for AI image generation, focused on ecommerce, kidswear, logo, Xiaohongshu, oriental, game, and futuristic type styles.
 # Typography Prompt Skill
